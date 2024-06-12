@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  api-app-chart:
+  - apiVersion: v2
+    appVersion: "1.0"
+    created: "2024-06-12T21:21:16.343803+03:00"
+    description: A Helm chart for deploying a Flask API service
+    digest: 7c7debf974885df9b45c20c116aa140b683b286254fd6492f4eb4e21c2e8dcb9
+    name: api-app-chart
+    type: application
+    urls:
+    - https://mahmoudaboghadeer93.github.io/api-app/charts/api-app-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-06-12T21:21:16.343255+03:00"
